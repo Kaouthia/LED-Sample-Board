@@ -1,0 +1,12 @@
+The USB-C socket on both boards is a surface mount 16-pin USB-C socket. The sockets used on both boards are identical except for one thing.
+
+The non-appended version numbers use a USB-C socket with two SMD pads for mechanical mounting to the PCB.
+
+The "b" version uses a USB-C socket with four through hole pins for mechanical mounting to the PCB.
+
+The latter is reported to be "stronger", although I've had no issue with USB-C sockets on either footprint for this application. 
+
+See image in documentation if you're unsure which is which.
+
+v1.1 - The basic board with the USB-C socket with SMD mechanical fixture
+v1.1b - The basic board with the USB-C socket with through hole mechanical fixture

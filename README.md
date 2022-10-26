@@ -15,4 +15,6 @@ Several iterations of the board will eventually be uploaded and each will have t
 
 If you need this board with a different USB-C footprint, let me know and I'll see what I can do!
 
+![Board layout](https://github.com/Kaouthia/LED-Sample-Board/blob/main/Documentation/led-sample-board-board-layout.jpg?raw=true)
+
 *This documentation will be updated and added to as I get chance*
